@@ -1,0 +1,75 @@
+
+
+
+body{
+font-size: 16px;
+font-family: verdana sans-serif;
+background-color: aqua;*/
+color: #333;
+
+}
+
+
+div
+{
+	border: solid 2px black;
+	display: inline-block;
+	text-align: center;
+	/*width: 100%;*/
+	/*height: 250px;*/
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: chocolate;
+}
+input{
+	margin-top:50px;
+}
+
+
+.lien{
+
+	padding: 10px;
+	margin: 10px;
+	background-color: darkred;
+
+}
+
+.label
+{
+	font-size: 25px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.valider
+{
+	border: 2px solid red;
+	font-size: 25px;
+	background-color: aqua;
+	margin-bottom: 10px;
+}
+.valider:hover
+{
+	background-color: skyblue;
+}
+select
+{
+	margin-top: 50px;
+}
+
+
+
+table{
+    
+    table-layout: fixed;
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px;
+}
+td , th{
+	border: 1px solid black;
+	padding: 20px;
+
+}
+
+
+
